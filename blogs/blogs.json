@@ -2,23 +2,21 @@
   "repo": "community-transit",
   "feeds": [
     {
-      "source": "https://www.communitytransit.org/news-and-events",
-      "feed_url": "https://www.communitytransit.org/news-and-events",
-      "title": "",
-      "saved": 0,
-      "method": "none",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
       "source": "https://github.com/public-apis/public-apis",
       "feed_url": "https://github.com/public-apis/public-apis",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://www.communitytransit.org/news-and-events",
+      "feed_url": "https://www.communitytransit.org/news-and-events",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 2,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
